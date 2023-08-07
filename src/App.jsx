@@ -1,15 +1,11 @@
-import { useState } from 'react'
-
-
-function App() {
-  
-
+export default function App() {
   return (
-    <>
-    <h1>Leetcode</h1>
-      
-    </>
+    <div>
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+        Click me
+      </button>
+
+    </div>
+   
   )
 }
-
-export default App
