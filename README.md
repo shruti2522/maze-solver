@@ -1,6 +1,6 @@
-# C++ Maze Generator and Solver Interactive
+# C++ Maze Generator and Solver 
 
-A C++ implementation of a NxN maze generation and solving (either by an algorithm or by user).
+A C++ implementation of a NxN maze generator and solver.
   
 ## Usage:
 ```
