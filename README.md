@@ -1,8 +1,19 @@
-# React + Vite
+# C++ Maze Generator and Solver Interactive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A C++ implementation of a NxN maze generation and solving (either by an algorithm or by user).
+  
+## Usage:
+```
+g++ maze_main.cpp Maze.cpp Graph.cpp
+```
+Execute a.out (Linux) or a.exe (Windows)
 
-Currently, two official plugins are available:
+## Screenshots:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://github.com/pavitrakumar78/Maze-Generator-and-Solver-Interactive/blob/master/images/img1.PNG" />  
+
+<img src="https://github.com/pavitrakumar78/Maze-Generator-and-Solver-Interactive/blob/master/images/img2.PNG" />  
+
+<img src="https://github.com/pavitrakumar78/Maze-Generator-and-Solver-Interactive/blob/master/images/img3.PNG" />  
+
+<img src="https://github.com/pavitrakumar78/Maze-Generator-and-Solver-Interactive/blob/master/images/img4.PNG" />  
